@@ -1,0 +1,6 @@
+{
+  "name": "Dermi - Asistente Dermatológico para Jóvenes",
+  "description": "Asistente conversacional empático basado exclusivamente en evidencia dermatológica científica para acompañar a jóvenes en el cuidado del acné, desmitificar remedios caseros y detectar casos de derivación médica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
